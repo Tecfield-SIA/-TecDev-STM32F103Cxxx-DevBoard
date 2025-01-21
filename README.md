@@ -36,12 +36,17 @@ Includes:
   
 ________________________________________
 
-📂 What's included?
-•	📜 Schematics:
-Uploaded in PDF format for easy reference.
-•	🖼️ Photos:
-High-quality images of the board are provided to showcase the design.
-•	🔄 Test code:
-A HEX file is included to quickly test the board’s functionality.
+- 📂 What's included?
+  
+-	📜 Schematics:
+- Uploaded in PDF format for easy reference.
+  
+-	🖼️ Photos:
+- High-quality images of the board are provided to showcase the design.
+  
+-	🔄 Test code:
+- A HEX file is included to quickly test the board’s functionality.
+  
 ________________________________________
-🛠️ This project is a work in progress, and I plan to release more resources in the future. Stay tuned for updates!
+
+- 🛠️ This project is a work in progress, and I plan to release more resources in the future. Stay tuned for updates!
