@@ -1,6 +1,6 @@
 # -TecDev-STM32F103Cxxx-DevBoard
 Custom development board for STM32F103Cxxx with debugging and connectivity features
-✨ Why this board?
+✨ Why this board?;
 STM32 microcontrollers are becoming increasingly popular due to their excellent features and affordability. For most of my projects and training sessions, I rely on these microcontrollers, which drove me to design a custom development board to suit general needs.
 💡 Why design your own board?
 Creating your own development board not only meets your specific requirements but also deepens your understanding of the microcontroller. It makes using it in future complex projects much easier. Moreover, testing your ideas with a development board before transitioning to PCB design minimizes mistakes, reduces costs, and ensures efficiency.
