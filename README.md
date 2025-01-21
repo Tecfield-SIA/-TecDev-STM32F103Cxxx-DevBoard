@@ -1,7 +1,7 @@
 # -TecDev-STM32F103Cxxx-DevBoard
 Custom development board for STM32F103Cxxx with debugging and connectivity features
 
-![STM32f103Cxxx DevBoard]()
+![STM32f103Cxxx DevBoard](https://github.com/Tecfield-SIA/TecDev-STM32F103Cxxx-DevBoard/blob/main/Images/STM32F103Cxxx.gif)
 
 ✨ Why this board?;
 STM32 microcontrollers are becoming increasingly popular due to their excellent features and affordability. For most of my projects and training sessions, I rely on these microcontrollers, which drove me to design a custom development board to suit general needs.
