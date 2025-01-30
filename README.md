@@ -1,4 +1,4 @@
-# -TecDev-STM32F103Cxxx-DevBoard
+# TecDev-STM32F103Cxxx-DevBoard
 Custom development board for STM32F103Cxxx with debugging and connectivity features
 
 ![STM32f103Cxxx DevBoard](https://github.com/Tecfield-SIA/TecDev-STM32F103Cxxx-DevBoard/blob/main/Images/STM32F103Cxxx.gif)
